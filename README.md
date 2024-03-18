@@ -66,7 +66,7 @@
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
   </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" />
+    <img src="https://rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40" />
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
