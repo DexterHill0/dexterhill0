@@ -6,7 +6,7 @@
 <h3 align="left">About me:</h3>
 
 -   📄 I'm a well-versed front-end developer with knowledge in a variety of frameworks and responsive and accessible design.
--   🌱 I'm currently undertaking the Founders and Coders skills bootcamp.
+-   🌱 I have a passion for responsive, accessible front-end development.
 -   💬 Searching for a Fullstack / Frontend / Backend Developer role.
     <br/>
 
@@ -18,6 +18,8 @@
 
 | Year         | Title                                                                                                                           | Technologies                                                                                                                                                                                                                                                                                                                                                |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024         | Private Freelance website | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react) ![Next.JS](https://img.shields.io/badge/-Next.JS-black?style=flat-square&logo=next.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=node.js)                                               
+| 2024         | [Founders and Coders Projects](https://github.com/orgs/fac31/repositories) | ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3) ![JS](https://img.shields.io/badge/-JS-black?style=flat-square&logo=javascript)                                                    
 | 2024         | [Founders and Coders Application Website](https://github.com/DexterHill0/fac-website "Founders and Coders Application Website") | ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3) ![JS](https://img.shields.io/badge/-JS-black?style=flat-square&logo=javascript)                                                                                                                  |
 | 2023         | [BT Email UI Concept](https://github.com/DexterHill0/bt-email-ui-concept "POC BT Email UI")                                     | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react) ![SCSS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)                                                                                         |
 | 2022         | [Geometry Dash Place](https://github.com/FlowVix/gd-place "GD Place")                                                           | ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte) ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript) ![SCSS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) |
@@ -42,6 +44,12 @@
   </a>
   <a href="https://storybook.js.org/" target="_blank" style="text-decoration:none;" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" alt="storybook" width="40" height="40" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" style="text-decoration:none;" rel="noreferrer">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/aws-logo-logo-png-transparent.png" alt="aws" width="40" height="40" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" style="text-decoration:none;" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="terraform" width="40" height="40" />
   </a>
 </div>
 
