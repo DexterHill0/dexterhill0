@@ -7,7 +7,6 @@
 
 -   📄 I'm a well-versed front-end developer with knowledge in a variety of frameworks and responsive and accessible design.
 -   🌱 I have a passion for responsive, accessible front-end development.
--   💬 Searching for a Fullstack / Frontend / Backend Developer role.
     <br/>
 
 -   📫 How to reach me: [Email](mailto:dexterhill00@gmail.com "dexterhill00@gmail.com")
